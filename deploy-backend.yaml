@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: cont1
-          image: narasimhasai95/goalsapi:d8bddaea9ddcb9341ae6dd9a16ac9a7c8605ad93
+          image: narasimhasai95/goalsapi:e9b6a21d27abac6f3fd6122c36e4f7b613c318f2
           ports:
             - containerPort: 3000
           volumeMounts:
