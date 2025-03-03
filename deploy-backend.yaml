@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
       - name: goals-api
-        image: narasimhasai95/goals-api:custommetric2
+        image: narasimhasai95/goalsapi:79aa811e80daad5581a6fe9ca65eafcc0a6445c8
         ports:
         - containerPort: 3000
         env:
